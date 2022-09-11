@@ -3,8 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
 
-import 'react-toastify/dist/ReactToastify.css';
-
 
 export default function Layout({ children }) {
   return (
